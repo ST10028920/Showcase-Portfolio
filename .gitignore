@@ -1,0 +1,23 @@
+# Global
+*.env
+.DS_Store
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Node
+node_modules/
+dist/
+coverage/
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+captures/
+*/build/
+*.keystore
